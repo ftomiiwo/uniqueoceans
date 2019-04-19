@@ -622,7 +622,8 @@ color:#14212b;
 }
 .core_value_item:hover:after{
 	transition: all 0.43s;
-	width:20%
+	width:20%;
+	border-radius:0 0 0 5px;
 }
 .core_value_item .svg_ svg{
 	fill:#47b1f0;
@@ -704,16 +705,46 @@ h2.heading,h3.heading {
 /*-- why choose us --*/
 
 /*-- partners --*/
+.partners_container{
+	display: -moz-grid;
+	display: grid;
+	grid-gap: 20px;
+	padding-left:60px;
+	padding-right:60px;
+	grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+}
+.partner_logos img{
+	width:150px;
+	filter: grayscale(80%);
+	border-radius:4px;
+	transition: all 0.43s;
+	border:1px solid #efefef;
+}
+.partner_logos{
+	top:0px;
+	transition: all 0.43s;
+	position: relative;
+}
+.partner_logos:hover{
+	transition: all 0.43s;
+	top:4px;
+}
+.partner_logos img:hover{
+	box-shadow: 7px 7px 10px 0 rgba(76, 110, 245, .1);
+	transition: all 0.43s;
+	filter: grayscale(10%);
+}
 ul.partners-icon li span.fa {
     font-size: 3em;
     color: #eee;
 }
 .partners{
-	background: #b84592;
+	background: #fafafa;
 }
 .partners h3.heading {
 	color: #fff;
 }
+.core_value_title_partners{padding-bottom:30px;}
 /*-- //partners --*/
 
 /*-- offered services --*/
