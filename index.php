@@ -249,7 +249,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- Offered Services -->
 
 <!-- video -->
-<section class="video py-5" id="video">
+<!-- <section class="video py-5" id="video">
 	<div class="container">
 		<div class="inner-sec-w3ls py-lg-5 py-3">
 			<div class="row">
@@ -264,7 +264,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!-- //video -->
 
 <!-- portfolio -->
@@ -379,7 +379,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
-		<h3 class="heading mb-5">Our Marketing Partners</h3>
+		<h3 class="heading mb-5">Our Clientele <small>/ˌkliːɒnˈtɛl/</small></h3>
 		<div class="inner-sec-w3ls">
 			<div class="sponsers-icon text-center">
 				<ul class="list-unstyled partners-icon row">
