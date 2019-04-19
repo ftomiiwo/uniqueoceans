@@ -348,38 +348,28 @@
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
-		<h3 class="heading mb-5">Our Clientele <small>/ˌkliːɒnˈtɛl/</small></h3>
-		<div class="inner-sec-w3ls">
-			<div class="sponsers-icon text-center">
-				<ul class="list-unstyled partners-icon row">
-					<li class="col-md-2 col-4">
-						<span class="fa fa-codepen" aria-hidden="true"></span>Beamco Nigeria Limited
-					</li>
-					<li class="col-md-2 col-4 border-left border-right">
-						<span class="fa fa-lastfm" aria-hidden="true"></span>Hommaston Limited
-					</li>
-					<li class="col-md-2 col-4 border-right">
-						<span class="fa fa-codiepie" aria-hidden="true"></span>JohnKrammer Engineering
-					</li>
-					<li class="col-md-2 col-4 border-right mt-md-0 mt-3">
-						<span class="fa fa-drupal" aria-hidden="true"></span>Rahamaniya Oil & Gas Ltd
-					</li>
-					<li class="col-md-2 col-4 border-right mt-md-0 mt-3">
-						<span class="fa fa-dashcube" aria-hidden="true"></span>Technology Partners International
-					</li>
-					<li class="col-md-2 col-4 mt-md-0 mt-3">
-						<span class="fa fa-skyatlas" aria-hidden="true"></span>Hybrid-HSE Group
-					</li>
-					<li class="col-md-2 col-4 mt-md-0 mt-3">
-						<span class="fa fa-skyatlas" aria-hidden="true"></span>StanbicIBTC
-					</li>
-					<li class="col-md-2 col-4 mt-md-0 mt-3">
-						<span class="fa fa-skyatlas" aria-hidden="true"></span>Mikano International Limited
-					</li>
-				</ul>
+		<p class="core_value_title core_value_title_partners">Our Clientele <small>/ˌkliːɒnˈtɛl/</small></p>
+		<div class="partners_container">
+			<div class="partner_logos">
+				<img src="images/beamco.png" class="img-fluid" alt="Partner's logo">
+			 </div>
+			<div class="partner_logos">
+				<img src="images/hybrid.png" class="img-fluid" alt="Partner's logo">
 			</div>
-		</div>
-	</div>
+			<div class="partner_logos">
+				<img src="images/hommost.png" class="img-fluid" alt="Partner's logo">
+			</div>
+			<div class="partner_logos">
+				<img src="images/stambic.png" class="img-fluid" alt="Partner's logo">
+			</div>
+			<div class="partner_logos">
+				<img src="images/mikano.png" class="img-fluid" alt="Partner's logo">
+			</div>
+			<div class="partner_logos">
+				<img src="images/johnkramer.png" class="img-fluid" alt="Partner's logo">
+			 </div>
+		 </div>
+		 
 </section>
 <!-- //Partners -->
 
