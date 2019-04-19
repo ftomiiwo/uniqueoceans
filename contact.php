@@ -12,6 +12,12 @@
 <section class="contact py-5 my-lg-5">
 	<div class="container">
 		<h2 class="heading mb-sm-5 mb-4">Contact Us</h2>
+		<?php if(isset($status)) { ?>
+		<div class="mb-3 text-capitalize">Thank you for contacting us, $visitor_name. You will get a reply within 24 hours.</div>
+		<?php } ?>
+		<?php if(isset($error)) { ?>
+		<div class="mb-3 text-capitalize">We are sorry but the email did not go through.</div>
+		<?php } ?>
 		<div class="row contact_information">
 			<div class="col-md-6 contact_left">
 				<div class="contact_border p-4">
@@ -20,16 +26,16 @@
 			</div>
 			<div class="col-md-6 mt-md-0 mt-4">
 				<div class="contact_right p-lg-5 p-4">
-					<form action="#" method="post">
+					<form action="form.php" method="POST">
 						<div class="w3_agileits_contact_left">
 							<h3 class="mb-3">Contact form</h3>
-							<input type="text" name="Name" placeholder="Your Name" required="">
-							<input type="email" name="Email" placeholder="Your Email" required="">
-							<input type="text" name="Phone" placeholder="Phone Number" required="">
-							<textarea placeholder="Your Message Here..." required=""></textarea>
+							<input type="text" class="form-control" id="validationDefault01" placeholder="Your Fullname.." required="required" name="visitor_name">
+							<input type="email" class="form-control" id="validationDefault02" placeholder="Your Email" required="required" name="visitor_email">
+							<input type="text" class="form-control" id="password2" placeholder="Topic/Title" required="required" name="email_title"> 
+							<textarea name="visitor_message" placeholder="Tell us how we can partner with you.."></textarea>
 						</div>
 						<div class="w3_agileits_contact_right">
-							<button type="submit" >Submit</button>
+							<button type="submit" type="submit">Submit</button>
 						</div>
 						<div class="clearfix"> </div>
 					</form>
@@ -62,7 +68,7 @@
 <!-- move top -->
 	
 <!-- popup for login -->
-<div id="popup3" class="popup-effect">
+<!-- <div id="popup3" class="popup-effect">
 	<div class="popup">
 		<div class="login px-sm-4 mx-auto mw-100">
 			<h5 class="text-center mb-4">Login to Digital</h5>
@@ -85,30 +91,31 @@
 
 		<a class="close" href="#">&times;</a>
 	</div>
-</div>
+</div> -->
 <!-- //popup for login -->
 
 <!-- popup for register -->
-<div id="popup4" class="popup-effect">
+<!-- <div id="popup4" class="popup-effect">
 	<div class="popup">
 		<div class="login px-sm-4 mx-auto mw-100">
 			<h5 class="text-center mb-4">Register Now</h5>
-			<form action="#" method="post">
+			<form action="form.php" method="post">
 				<div class="form-group">
 					<label>Full Name</label>
-					<input type="text" class="form-control" id="validationDefault01" placeholder="" required="">
+					<input type="text" class="form-control" id="validationDefault01" placeholder="Your Fullname.." required="required" name="visitor_name">
 				</div>
 				<div class="form-group">
 					<label>Email Address</label>
-					<input type="email" class="form-control" id="validationDefault02" placeholder="" required="">
+					<input type="email" class="form-control" id="validationDefault02" placeholder="Your Email" required="required" name="visitor_email">
+				</div> 
+				<div class="form-group">
+					<label>Give a title</label>
+					<input type="text" class="form-control" id="password2" placeholder="Proposal" required="required" name="email_title">
 				</div>
 				<div class="form-group">
-					<label class="mb-2">Password</label>
-					<input type="password" class="form-control" id="password1" placeholder="" required="">
-				</div>
-				<div class="form-group">
-					<label>Confirm Password</label>
-					<input type="password" class="form-control" id="password2" placeholder="" required="">
+					<label>Your Message</label>
+					<textarea name="" placeholder="Tell us how we can partner with you.."></textarea>
+					<input type="text" class="form-control" id="password2" placeholder="Proposal" required="required" name="visitor_message">
 				</div>
 
 				<button type="submit" class="btn btn-primary submit">Register</button>
@@ -119,7 +126,7 @@
 		</div>
 		<a class="close" href="#">&times;</a>
 	</div>
-</div>
+</div> -->
 <!-- //popup for register -->
 
 </body>
