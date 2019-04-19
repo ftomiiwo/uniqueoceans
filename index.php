@@ -335,8 +335,16 @@
 	</div>
 </section>
 <!-- //Projects -->
-
-	
+<!-- //Projects 
+	Beamco Nigeria Limited
+	Hommaston Limited
+	JohnKrammer Engineering
+	Rahamaniya Oil & Gas Ltd.
+	Technology Partners International
+	Hybrid-HSE Group
+	StanbicIBTC
+	Mikano International Limited
+	-->
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
@@ -345,22 +353,28 @@
 			<div class="sponsers-icon text-center">
 				<ul class="list-unstyled partners-icon row">
 					<li class="col-md-2 col-4">
-						<span class="fa fa-codepen" aria-hidden="true"></span>
+						<span class="fa fa-codepen" aria-hidden="true"></span>Beamco Nigeria Limited
 					</li>
 					<li class="col-md-2 col-4 border-left border-right">
-						<span class="fa fa-lastfm" aria-hidden="true"></span>
+						<span class="fa fa-lastfm" aria-hidden="true"></span>Hommaston Limited
 					</li>
 					<li class="col-md-2 col-4 border-right">
-						<span class="fa fa-codiepie" aria-hidden="true"></span>
+						<span class="fa fa-codiepie" aria-hidden="true"></span>JohnKrammer Engineering
 					</li>
 					<li class="col-md-2 col-4 border-right mt-md-0 mt-3">
-						<span class="fa fa-drupal" aria-hidden="true"></span>
+						<span class="fa fa-drupal" aria-hidden="true"></span>Rahamaniya Oil & Gas Ltd
 					</li>
 					<li class="col-md-2 col-4 border-right mt-md-0 mt-3">
-						<span class="fa fa-dashcube" aria-hidden="true"></span>
+						<span class="fa fa-dashcube" aria-hidden="true"></span>Technology Partners International
 					</li>
 					<li class="col-md-2 col-4 mt-md-0 mt-3">
-						<span class="fa fa-skyatlas" aria-hidden="true"></span>
+						<span class="fa fa-skyatlas" aria-hidden="true"></span>Hybrid-HSE Group
+					</li>
+					<li class="col-md-2 col-4 mt-md-0 mt-3">
+						<span class="fa fa-skyatlas" aria-hidden="true"></span>StanbicIBTC
+					</li>
+					<li class="col-md-2 col-4 mt-md-0 mt-3">
+						<span class="fa fa-skyatlas" aria-hidden="true"></span>Mikano International Limited
 					</li>
 				</ul>
 			</div>
