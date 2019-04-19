@@ -37,43 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
    
-<!-- //header -->
-<header class="py-4">
-	<div class="container">
-			<div id="logo">
-				<h1> <a href="index.html"><span class="fa fa-cloud" aria-hidden="true"></span> Digital</a></h1>
-			</div>
-		<!-- nav -->
-		<nav class="d-lg-flex">
-
-			<label for="drop" class="toggle"><span class="fa fa-bars" aria-hidden="true"></span></label>
-			<input type="checkbox" id="drop" />
-			<ul class="menu mt-2 ml-auto">
-				<li class=""><a href="index.html">Home</a></li>
-				<li class=""><a href="#about">About</a></li>
-				<li class="">
-				<!-- First Tier Drop Down -->
-				<label for="drop-2" class="toggle">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-				<a href="#">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span></a>
-				<input type="checkbox" id="drop-2"/>
-				<ul class="inner-ul">
-					<li><a href="#process">Marketing Process</a></li>
-					<li><a href="#portfolio">Portfolio</a></li>
-				<li><a href="#partners">Partners</a></li>
-				</ul>
-				</li>
-				<li class=""><a href="team.html">Team Page</a></li>
-				<li class=""><a href="contact.html">Contact Page</a></li>
-			</ul>
-			<div class="login-icon ml-lg-2">
-				<a class="user" href="#popup3"> Login</a>
-			</div>
-		</nav>
-		<div class="clear"></div>
-		<!-- //nav -->
-	</div>
-</header>
-<!-- //header -->
+<?php include('header.php'); ?>
    
 <!-- banner -->
 <div class="banner inner-banner" id="home">
@@ -272,93 +236,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </section>
 <!-- //Team page -->
 
-<!-- footer -->
-<footer class="footer-emp-w3ls py-5">
-	<div class="container pt-lg-3">
-		<div class="row footer-top">
-			<div class="col-lg-4 col-sm-6 footer-grid-wthree">
-				<h4 class="footer-title text-uppercase mb-4">Who We Are</h4>
-				<div class="contact-info">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium ipsum doloremque elit laudantium, totam rem
-						aperiam, eaque ipsa quae. Excepteur ut occaecat proident, sunt voluptatem et accusantium doloremque elit dolor.</p>
-					<h4 class="mt-3">Trusted by more than 1000+ people</h4>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 footer-grid-wthree mt-sm-0 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Latest News</h3>
-				<div class="contact-info">
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Sed ut piciatis unde natus</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">23 Nov 2018.</p>
-					</div>
-					<div class="footer-style-w3ls mt-3">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Modi tempra incunt sit</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">24 Nov 2018.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Contact Us</h3>
-				<div class="contact-info">
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"> <span class="fa mr-1 fa-map-marker"></span> Location</h4>
-						<p>Marketing Agency, 5th cross, 4th building, New York City.</p>
-					</div>
-					<div class="footer-style-w3ls my-3">
-						<h4 class="mb-2"><span class="fa mr-1 fa-phone"></span> Phone</h4>
-						<p>+121 098 8907 9987</p>
-					</div>
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"><span class="fa mr-1 fa-envelope-open"></span> Email</h4>
-						<p><a href="mailto:info@example.com">info@example.com</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-2 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Quick Links</h3>
-				<ul class="links list-unstyled">
-					<li>
-						<a class="" href="#home"> Home</a>
-					</li>
-					<li>
-						<a class="" href="#about"> About Us</a>
-					</li>
-					<li>
-						<a class="" href="#"> Services</a>
-					</li>
-					<li>
-						<a class="" href="#">Process</a>
-					</li>
-					<li>
-						<a class="" href="#">Portfolio</a>
-					</li>
-					<li>
-						<a class="" href="contact.html">Contact us</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</footer>
-<!-- //footer -->
-
-<!-- copyright -->
-<div class="copy-right-top border-top">
-	<p class="copy-right text-center py-4">&copy; 2019 Digital. All Rights Reserved | Design by
-		<a href="http://w3layouts.com/"> W3layouts </a>
-	</p>
-</div>
-<!-- //copyright -->
-
-<!-- move top -->
-<div class="move-top text-right">
-	<a href="#home" class="move-top"> 
-		<span class="fa fa-angle-up  mb-3" aria-hidden="true"></span>
-	</a>
-</div>
-<!-- move top -->
+<?php include('footer.php'); ?>
 
 <!-- popup for login -->
 <div id="popup3" class="popup-effect">

@@ -54,9 +54,9 @@ h6 {
     margin: 0;
     letter-spacing: 1px;
 }
-li {
+/*li {
     list-style-type: none;
-}
+}*/
 p {
     margin: 0;
     font-size: 1em;
@@ -709,7 +709,7 @@ ul.partners-icon li span.fa {
     color: #eee;
 }
 .partners{
-	background: #b84592;
+	background: #00b0f0;
 }
 .partners h3.heading {
 	color: #fff;
@@ -767,7 +767,7 @@ a.btn-w3layouts_pvt {
 	font-weight: 600;
 }
 
-.process p {
+li, .process p {
     font-size: 16px;
     color: #777;
 }

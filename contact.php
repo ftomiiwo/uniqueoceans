@@ -36,44 +36,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	
 </head>
 <body>
-   
-<!-- //header -->
-<header class="py-4">
-	<div class="container">
-			<div id="logo">
-				<h1> <a href="index.html"><span class="fa fa-cloud" aria-hidden="true"></span> Digital</a></h1>
-			</div>
-		<!-- nav -->
-		<nav class="d-lg-flex">
 
-			<label for="drop" class="toggle"><span class="fa fa-bars" aria-hidden="true"></span></label>
-			<input type="checkbox" id="drop" />
-			<ul class="menu mt-2 ml-auto">
-				<li class=""><a href="index.html">Home</a></li>
-				<li class=""><a href="#about">About</a></li>
-				<li class="">
-				<!-- First Tier Drop Down -->
-				<label for="drop-2" class="toggle">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-				<a href="#">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span></a>
-				<input type="checkbox" id="drop-2"/>
-				<ul class="inner-ul">
-					<li><a href="#process">Marketing Process</a></li>
-					<li><a href="#portfolio">Portfolio</a></li>
-				<li><a href="#partners">Partners</a></li>
-				</ul>
-				</li>
-				<li class=""><a href="team.html">Team Page</a></li>
-				<li class=""><a href="contact.html">Contact Page</a></li>
-			</ul>
-			<div class="login-icon ml-lg-2">
-				<a class="user" href="#popup3"> Login</a>
-			</div>
-		</nav>
-		<div class="clear"></div>
-		<!-- //nav -->
-	</div>
-</header>
-<!-- //header -->
+<?php include('header.php'); ?>
    
 <!-- banner -->
 <div class="banner inner-banner" id="home">
@@ -90,7 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="row contact_information">
 			<div class="col-md-6 contact_left">
 				<div class="contact_border p-4">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6350041.310790406!2d30.68773492426509!3d39.0014851732576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b0155c964f2671%3A0x40d9dbd42a625f2a!2sTurkey!5e0!3m2!1sen!2sin!4v1522753415269"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3963.6878752617404!2d3.365492!3d6.5610264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8d8f3b9e83bb%3A0x129c8794180b45ba!2s5+Akinmade+St%2C+Anthony%2C+Lagos!5e0!3m2!1sen!2sng!4v1555690314603!5m2!1sen!2sng"></iframe> 
 				</div>
 			</div>
 			<div class="col-md-6 mt-md-0 mt-4">
@@ -113,97 +77,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-lg-6 col-md-6">
 				<div class="mt-5 information">
 					<h4 class="text-uppercase mb-4"><span class="fa fa-comments"></span> General Communication</h4>
-					<p class="mb-3 text-capitalize">For General Queries, Including Partnership Opportunities, Please Email Us At <a href="mailto:info@example.com">info@example.com</a></p>
+					<p class="mb-3 text-capitalize">For General Queries, Including Partnership Opportunities, Please Email Us At <a href="mailto:info@uniqueoceans.com">info@uniqueoceans.com</a></p>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-6 mt-md-5 mt-2 information">
 				<h4 class="text-uppercase mb-4"><span class="fa fa-life-ring"></span> Technical Support</h4>
-				<p class="mb-3 text-capitalize">We Are Here To Help! If You Have Technical Issues, Contact Support  <span>+12 388 455 6789</span>.</p>
+				<p class="mb-3 text-capitalize">We Are Here To Help! If You Have Technical Issues, Contact Support  <span>+234 706 154 7520</span>.</p>
 			</div>
 		</div>
 	</div>
 </section>
 <!-- //Contact page -->
 
-<!-- footer -->
-<footer class="footer-emp-w3ls py-5">
-	<div class="container pt-lg-3">
-		<div class="row footer-top">
-			<div class="col-lg-4 col-sm-6 footer-grid-wthree">
-				<h4 class="footer-title text-uppercase mb-4">Who We Are</h4>
-				<div class="contact-info">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium ipsum doloremque elit laudantium, totam rem
-						aperiam, eaque ipsa quae. Excepteur ut occaecat proident, sunt voluptatem et accusantium doloremque elit dolor.</p>
-					<h4 class="mt-3">Trusted by more than 1000+ people</h4>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 footer-grid-wthree mt-sm-0 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Latest News</h3>
-				<div class="contact-info">
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Sed ut piciatis unde natus</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">23 Nov 2018.</p>
-					</div>
-					<div class="footer-style-w3ls mt-3">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Modi tempra incunt sit</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">24 Nov 2018.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Contact Us</h3>
-				<div class="contact-info">
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"> <span class="fa mr-1 fa-map-marker"></span> Location</h4>
-						<p>Marketing Agency, 5th cross, 4th building, New York City.</p>
-					</div>
-					<div class="footer-style-w3ls my-3">
-						<h4 class="mb-2"><span class="fa mr-1 fa-phone"></span> Phone</h4>
-						<p>+121 098 8907 9987</p>
-					</div>
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"><span class="fa mr-1 fa-envelope-open"></span> Email</h4>
-						<p><a href="mailto:info@example.com">info@example.com</a></p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-2 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Quick Links</h3>
-				<ul class="links list-unstyled">
-					<li>
-						<a class="" href="#home"> Home</a>
-					</li>
-					<li>
-						<a class="" href="#about"> About Us</a>
-					</li>
-					<li>
-						<a class="" href="#"> Services</a>
-					</li>
-					<li>
-						<a class="" href="#">Process</a>
-					</li>
-					<li>
-						<a class="" href="#">Portfolio</a>
-					</li>
-					<li>
-						<a class="" href="contact.html">Contact us</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</footer>
-<!-- //footer -->
 
-<!-- copyright -->
-<div class="copy-right-top border-top">
-	<p class="copy-right text-center py-4">&copy; 2019 Digital. All Rights Reserved | Design by
-		<a href="http://w3layouts.com/"> W3layouts </a>
-	</p>
-</div>
-<!-- //copyright -->
+<?php include('footer.php'); ?>
 
 <!-- move top -->
 <div class="move-top text-right">
