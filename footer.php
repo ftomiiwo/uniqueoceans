@@ -61,7 +61,7 @@
 <!-- copyright -->
 <div class="copy-right-top border-top">
 	<p class="copy-right text-center py-4">&copy; <?php echo Date('Y'); ?> All Rights Reserved | Design by
-		<a href="http://atfak.com/"> Atfak Technologies </a>
+		<a href="http://atfak.com/" target="_blank"> Atfak Technologies </a>
 	</p>
 </div>
 <!-- //copyright -->	
