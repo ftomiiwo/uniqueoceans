@@ -551,7 +551,7 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 <!-- //video -->
 
 <!-- portfolio -->
-<section class="portfolio py-5" id="portfolio">
+<!-- <section class="portfolio py-5" id="portfolio">
 	<div class="container py-3">
 		<h3 class="heading text-capitalize mb-md-5 mb-4">Our Portfolio <span></span></h3>
 		<div class="row news-grids text-center">
@@ -579,83 +579,83 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 			<div class="col-md-3 col-6 gal-img">
 				<a href="#gal8"><img src="images/g8.jpg" alt="portfolio image" class="img-fluid"></a>
 			</div>
-		</div>
+		</div> -->
 		<!-- portfolio popups -->
 			<!-- popup-->
-			<div id="gal1" class="pop-overlay animate">
+			<!-- <div id="gal1" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g1.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal2" class="pop-overlay animate">
+			<!-- <div id="gal2" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g2.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal3" class="pop-overlay animate">
+			<!-- <div id="gal3" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g3.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup3 -->
 			<!-- popup-->
-			<div id="gal4" class="pop-overlay animate">
+			<!-- <div id="gal4" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g4.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal5" class="pop-overlay animate">
+			<!-- <div id="gal5" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g5.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal6" class="pop-overlay animate">
+			<!-- <div id="gal6" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g6.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal7" class="pop-overlay animate">
+			<!-- <div id="gal7" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g7.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- popup-->
-			<div id="gal8" class="pop-overlay animate">
+			<!-- <div id="gal8" class="pop-overlay animate">
 				<div class="popup">
 					<img src="images/g8.jpg" alt="Popup Image" class="img-fluid" />
 					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
 					<a class="close" href="#portfolio">&times;</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- //popup -->
 			<!-- //portfolio popups -->
-	</div>
-</section>
+	<!-- </div>
+</section> -->
 <!-- //Projects -->
 <!-- //Projects 
 	Beamco Nigeria Limited
@@ -671,6 +671,7 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
 		<p class="core_value_title core_value_title_partners">Our Clientele <small>/kliːɒnˈtɛl/</small></p>
+		<!-- <h3 class="heading text-capitalize mb-md-5 mb-4">Our Clientele <small>/kliːɒnˈtɛl/</small></h3> -->
 		<div class="partners_container">
 			<div class="partner_logos">
 				<img src="images/beamco.png" class="img-fluid" alt="Partner's logo">

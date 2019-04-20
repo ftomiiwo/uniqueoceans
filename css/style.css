@@ -265,6 +265,7 @@ li > a:only-child:after { content: ''; }
 		float: right;
 		background-color: #fff;
 		color: #6a67ce;
+		color:#47b1f0;
 	}
 	.menu .toggle {
 		float: none;
@@ -661,6 +662,7 @@ color:#14212b;
 	line-height: 1.5;
 	color: #5e666d;
 }
+.process_ .core_value_title{color: #01304c;}
 .process_ .core_value_title{
 	padding-bottom: 20px;
 }
@@ -722,7 +724,9 @@ color:#14212b;
 /*-- why choose us --*/
 h2.heading,h3.heading {
     font-size: 45px;
-    color: #333;
+	color: #333;
+	font-size: 36px;
+    color: #0b304c;
     text-transform: capitalize;
     letter-spacing: 0;
 }
@@ -1168,6 +1172,20 @@ ul.links li a:hover,
 
 /*-- team --*/
 /* common styles for visual styles */
+.team_body{
+	text-align: center;
+	padding-bottom: 40px;
+}
+.team_body p{
+	line-height: 1.5;
+}
+.team_height{
+	min-height: 700px;
+}
+.team_body_title{
+	text-align: center;
+	padding-top:100px
+}
 
 .teamy_name {
     font-size: 20px;
@@ -1329,8 +1347,19 @@ a.move-top span{
 		font-size: 2.5em;
 	}
 }
-
+@media (min-width:991px){
+	.team_body{
+		text-align: center;
+		width:80%;
+		left:10%;
+		position: relative;
+		padding-bottom: 40px;
+	}
+}
 @media(max-width:991px) {
+	.process_grids {
+		grid-template-columns: repeat(2,1fr);
+	}
 	.login-icon {
 		position: absolute;
 		right: 10%;
@@ -1373,7 +1402,16 @@ a.move-top span{
 		right: 12%;
 	}
 }
-
+@media (max-width:767px){
+	.core_value_container{
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.partners_container {
+		padding-left: 40px;
+		padding-right: 40px;
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
 @media(max-width:768px) {
 	nav { 
 		float: none;
@@ -1462,7 +1500,23 @@ a.move-top span{
 		right: 14.5%;
 	}
 }
-
+@media(max-width:576px){
+	.process_grids {
+		grid-template-columns: 1fr;
+		padding-left:30px;
+		padding-right:30px;
+	}
+	.about_container {
+		padding-left:30px;
+		padding-right:30px;
+		grid-template-columns: 1fr;
+	}
+	.core_value_container{
+		padding-left:20px;
+		padding-right:20px;
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
 @media(max-width:568px) {
 	.login-icon {
 		right: 11.5%;
@@ -1499,6 +1553,13 @@ a.move-top span{
 	}
 }
 @media(max-width:414px) {
+	@media(max-width:576px){
+		.core_value_container{
+			padding-left:0px;
+			padding-right:0px;
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
 	.banner-info-grid h2 {
 		font-size: 1.8em;
 		line-height: 40px;
@@ -1550,6 +1611,10 @@ a.move-top span{
 }
 
 @media(max-width:384px) {
+	.about_container {
+		padding-left:0px;
+		padding-right:0px;
+	}
    
 	.toggle {
 		font-size: 15px;
@@ -1608,7 +1673,22 @@ a.move-top span{
 		font-size: 14px;
 	}
 }
-
+@media (max-width:375px){
+	.partners_container {
+		padding-left: 0px;
+		padding-right: 0px;
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+@media (max-width:365px){
+	.core_value_item{
+		padding: 15px;
+	}
+	.process_grids {
+		padding-left:0px;
+		padding-right:0px;
+	}
+}
 @media(max-width:320px) {
     .slider-info a.btn {
 		padding: 10px 15px;
@@ -1617,7 +1697,8 @@ a.move-top span{
 	.toggle {
 		font-size: 14px;
 		padding: 7px 10px;
-		margin-right: 2.5em;
+		margin-top: 3px;
+		margin-right: 0;
 	}
 	.detail h4.title a {
 		font-size: 19px;

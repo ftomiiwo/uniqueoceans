@@ -1,19 +1,30 @@
 <?php include('header.php'); ?>
    
 <!-- banner -->
-<div class="banner inner-banner" id="home">
+<!-- <div class="banner inner-banner" id="home">
 	<div class="container">
 
 	</div>
-</div>
+</div> -->
 <!-- //banner -->
 
 <!-- Team page -->
-<section class="section pt-5" id="agents">
+<section class="section team_height pt-5" id="agents">
     <div class="container py-lg-5">
-		<h2 class="heading mb-sm-5 mb-4"> Our Marketing Team</h2>
+		<h2 class="heading team_body_title mb-sm-5 mb-4"> Our Team</h2>
 		<div class="section_header">
-			<div class="row">
+			<div class="team_body">
+				<p>Uniqueocean is designed to operate as an inclusive organization that is open to global part- nership with aligned set of values, including a deep commitment to diversity.
+					</p>
+					<p>We are take a consistent approach to engagement and skills development of our people irre- spective of their background just so we can deliver appropriate team mix, with the right experience and expertise, to every client, anywhere in the world.</p>
+					<p>Our team is composed of certified and experienced professionals in the field of Quality, Health & Safety, Environment, Humanities as well as Social workers.
+						</p>
+						<!-- <p>Uniqueocean is designed to operate as an inclusive organization that is open to global part- nership with aligned set of values, including a deep commitment to diversity.
+								We are take a consistent approach to engagement and skills development of our people irre- spective of their background just so we can deliver appropriate team mix, with the right experience and expertise, to every client, anywhere in the world.
+								Our team is composed of certified and experienced professionals in the field of Quality, Health & Safety, Environment, Humanities as well as Social workers.
+								</p> -->
+			</div>
+			<!-- <div class="row">
 				<div class="col-md-3 col-sm-6 mb-5">
 					<div class="teamy_preview">
 						<img src="images/team1.jpg" class="teamy_avatar" alt="The demo photo">
@@ -191,7 +202,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
     </div>
 </section>
