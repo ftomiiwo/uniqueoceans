@@ -115,7 +115,7 @@
 				<ul class="inner-ul">
 					<!-- <li><a href="#process">Marketing Process</a></li> -->
 					<li><a href="index.php#our-services">Our Services</a></li>
-				<li><a href="index.php#partners">Partners</a></li>
+				<li><a href="index.php#partners">Our Clientele</a></li>
 				</ul>
 				</li>
 				<li class=""><a href="team.php">Our Team</a></li>
