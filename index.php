@@ -670,7 +670,7 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
-		<p class="core_value_title core_value_title_partners">Our Clientele <small>/kliːɒnˈtɛl/</small></p>
+		<p class="core_value_title core_value_title_partners">Our Clientele<!--  <small>/kliːɒnˈtɛl/</small> --></p>
 		<!-- <h3 class="heading text-capitalize mb-md-5 mb-4">Our Clientele <small>/kliːɒnˈtɛl/</small></h3> -->
 		<div class="partners_container">
 			<div class="partner_logos">
@@ -682,12 +682,12 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 			<div class="partner_logos">
 				<img src="images/hommost.png" class="img-fluid" alt="Partner's logo">
 			</div>
-			<div class="partner_logos">
+			<!-- <div class="partner_logos">
 				<img src="images/stambic.png" class="img-fluid" alt="Partner's logo">
-			</div>
-			<div class="partner_logos">
+			</div> -->
+			<!-- <div class="partner_logos">
 				<img src="images/mikano.png" class="img-fluid" alt="Partner's logo">
-			</div>
+			</div> -->
 			<div class="partner_logos">
 				<img src="images/johnkramer.png" class="img-fluid" alt="Partner's logo">
 			 </div>
