@@ -11,9 +11,10 @@
 				<!-- <a class="btn mr-2 text-capitalize" href="#popup1">read more </a>
 				<a class="btn text-capitalize" href="#popup2">watch video </a> -->
 			</div>
-			<div class="col-lg-6 col-md-8 mt-lg-0 mt-sm-5 mt-3 banner-image text-lg-center">
-				<img src="images/1112B.png" alt="" class="img-fluid"/> 
-			</div>
+			<!-- <div class="col-lg-6 col-md-8 mt-lg-0 mt-sm-5 mt-3 banner-image hero_bg text-lg-center"> -->
+				<!-- <img src="images/1112B.png" alt="" class="img-fluid"/>  -->
+				<!-- <img src="images/hero.jpg" alt="" class="img-fluid"/>  -->
+			<!-- </div> -->
 		</div>
 	</div>
 </div>
@@ -670,7 +671,7 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
-		<p class="core_value_title core_value_title_partners">Our Clientele<!--  <small>/kliːɒnˈtɛl/</small> --></p>
+		<p class="core_value_title core_value_title_partners">Our Clientele <small>/kliːɒnˈtɛl/</small></p>
 		<!-- <h3 class="heading text-capitalize mb-md-5 mb-4">Our Clientele <small>/kliːɒnˈtɛl/</small></h3> -->
 		<div class="partners_container">
 			<div class="partner_logos">
@@ -682,12 +683,12 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 			<div class="partner_logos">
 				<img src="images/hommost.png" class="img-fluid" alt="Partner's logo">
 			</div>
-			<!-- <div class="partner_logos">
+			<div class="partner_logos">
 				<img src="images/stambic.png" class="img-fluid" alt="Partner's logo">
-			</div> -->
-			<!-- <div class="partner_logos">
+			</div>
+			<div class="partner_logos">
 				<img src="images/mikano.png" class="img-fluid" alt="Partner's logo">
-			</div> -->
+			</div>
 			<div class="partner_logos">
 				<img src="images/johnkramer.png" class="img-fluid" alt="Partner's logo">
 			 </div>

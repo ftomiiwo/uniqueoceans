@@ -66,7 +66,8 @@
 	<!-- css files -->
     <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
     <link href="css/style.css" rel='stylesheet' type='text/css' /><!-- custom css -->
-    <link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+	<link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<!-- //css files -->
 	<!-- google fonts -->
 	<link href="//fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext,vietnamese" rel="stylesheet">

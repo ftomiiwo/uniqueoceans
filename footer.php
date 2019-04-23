@@ -7,25 +7,9 @@
 				<h4 class="footer-title text-uppercase mb-4">Who We Are</h4>
 				<div class="contact-info">
 					<p>We are an indigenous management consulting firm that serves a mix of industries and sectors – Manufactur- ing, Construction, Oil & Gas – Up- stream , Downstream ( Production & Services). We help our clients make substantial and lasting im- provements to their performance and realize their most important goals. With relevant industry expe- rience, we are poised to deliver unique value for every project.</p>
-					<!-- <h4 class="mt-3">Trusted by more than 1000+ people</h4> -->
 				</div>
 			</div>
-			<!-- <div class="col-lg-3 col-sm-6 footer-grid-wthree mt-sm-0 mt-4">
-				<h3 class="footer-title text-uppercase mb-4">Latest News</h3>
-				<div class="contact-info">
-					<div class="footer-style-w3ls">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Sed ut piciatis unde natus</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">23 Nov 2018.</p>
-					</div>
-					<div class="footer-style-w3ls mt-3">
-						<h4 class="mb-2"><span class="fa mr-1 fa-twitter"></span> Modi tempra incunt sit</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit volupta....</p>
-						<p class="date">24 Nov 2018.</p>
-					</div>
-				</div>
-			</div> -->
-			<div class="col-lg-4 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
+			<div class="col-md-4  offset-md-1 col-lg-3 col-6 footer-grid-wthree mt-md-0 mt-4">
 				<h3 class="footer-title text-uppercase mb-4">Contact Us</h3>
 				<div class="contact-info">
 					<div class="footer-style-w3ls">
@@ -42,7 +26,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-sm-6 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
+			<div class="col-lg-2 col-md-4 col-6 offset-lg-1 footer-grid-wthree mt-lg-0 mt-sm-5 mt-4">
 				<h3 class="footer-title text-uppercase mb-4">Quick Links</h3>
 				<ul class="links list-unstyled">
 					<li class=""><a href="index.php">Home</a></li>

@@ -10,201 +10,49 @@
 
 <!-- Team page -->
 <section class="section team_height pt-5" id="agents">
-    <div class="container py-lg-5">
+	<div class="container py-lg-5">
 		<h2 class="heading team_body_title mb-sm-5 mb-4"> Our Team</h2>
 		<div class="section_header">
 			<div class="team_body">
 				<p>Uniqueocean is designed to operate as an inclusive organization that is open to global part- nership with aligned set of values, including a deep commitment to diversity.
-					</p>
-					<p>We are take a consistent approach to engagement and skills development of our people irre- spective of their background just so we can deliver appropriate team mix, with the right experience and expertise, to every client, anywhere in the world.</p>
-					<p>Our team is composed of certified and experienced professionals in the field of Quality, Health & Safety, Environment, Humanities as well as Social workers.
-						</p>
-						<!-- <p>Uniqueocean is designed to operate as an inclusive organization that is open to global part- nership with aligned set of values, including a deep commitment to diversity.
-								We are take a consistent approach to engagement and skills development of our people irre- spective of their background just so we can deliver appropriate team mix, with the right experience and expertise, to every client, anywhere in the world.
-								Our team is composed of certified and experienced professionals in the field of Quality, Health & Safety, Environment, Humanities as well as Social workers.
-								</p> -->
+				</p>
+				<p>We are take a consistent approach to engagement and skills development of our people irre- spective of their background just so we can deliver appropriate team mix, with the right experience and expertise, to every client, anywhere in the world.</p>
+				<p>Our team is composed of certified and experienced professionals in the field of Quality, Health & Safety, Environment, Humanities as well as Social workers.
+				</p>
 			</div>
-			<!-- <div class="row">
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team1.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Suzan Lois</h3>
-						<span class="teamy_post">CEO/Founder</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team2.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Dora Caelan</h3>
-						<span class="teamy_post">Marketing Manager</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team3.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>    
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Rosanna</h3>
-						<span class="teamy_post">Sales Executive</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6  mb-5">
-					<div class="teamy_preview">
-						<img src="images/team4.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Rose Alpha</h3>
-						<span class="teamy_post">Product Manager</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team5.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Suzan Lois</h3>
-						<span class="teamy_post">Sales Executive</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team6.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Dora Caelan</h3>
-						<span class="teamy_post">Product Manager</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team7.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>    
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Rosanna</h3>
-						<span class="teamy_post">Sales Manager</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 mb-5">
-					<div class="teamy_preview">
-						<img src="images/team2.jpg" class="teamy_avatar" alt="The demo photo">
-					</div>
-					<div class="teamy_content mt-3">
-						<h3 class="teamy_name">Rose Alpha</h3>
-						<span class="teamy_post">Co-Founder</span>
-					</div>
-					<div class="teamy_back">
-						<div class="teamy_back-inner">
-							<a href="#0" class="social"> 
-								<span class="fa fa-facebook"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-twitter"></span>
-							</a>
-							<a href="#0" class="social">
-								<span class="fa fa-envelope-open"></span>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div> -->
 		</div>
-    </div>
+		<p class="core_value_title">Our Leadership</p>
+		<div class="team_container">
+			<div class="team_item" data-toggle="modal" data-target="#olasunkanmi">
+				<img src="images/olasunkanmi-removebg.png" alt="team member" class="img-fluid">
+				<div class="name">
+					<p>Olasunkanmi Olayanju , CMQ-OE</p>
+					<span>Principal Consultant</span>
+				</div>
+				<div class="_socials">
+					<a href="https://www.linkedin.com/in/olasunkanmi-olayanju/" target="_blank" rel="noopener noreferrer">
+						<i class="fab fa-linkedin"></i>
+					</a>
+				</div>
+
+		<!-- Modal -->
+				<div class="modal fade" id="olasunkanmi" tabindex="-1" role="dialog" aria-labelledby="olasunkanmiLabel" aria-hidden="true">
+					<div class="modal-dialog" role="document">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<div class="modal-body _body">
+								<p>Olasunkanmi Olayanju is an experienced and certified QHSE professional with more than a decade of vast and progressive expertise across several industries including manufacturing, auditing, consulting, oil and gas, quality, occupational health and safety, and environmental management. Able to lead organizations at the highest management and executive capacity towards sustainable leadership and direction, business restructuring, impactful transformation, and profitable growth</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 <!-- //Team page -->
 
@@ -270,6 +118,8 @@
 	</div>
 </div>
 <!-- //popup for register -->
-
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>
