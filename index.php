@@ -8,8 +8,8 @@
 					<h2> Welcome to <strong>Unique Ocean</strong> </h2>
 					<p>An indigenous management consulting firm that will help your firm make substantial and lasting improvements to your performance and realize your most important goals.</p>
 				</div>
-				<a class="btn mr-2 text-capitalize" href="#popup1">read more </a>
-				<a class="btn text-capitalize" href="#popup2">watch video </a>
+				<!-- <a class="btn mr-2 text-capitalize" href="#popup1">read more </a>
+				<a class="btn text-capitalize" href="#popup2">watch video </a> -->
 			</div>
 			<div class="col-lg-6 col-md-8 mt-lg-0 mt-sm-5 mt-3 banner-image text-lg-center">
 				<img src="images/1112B.png" alt="" class="img-fluid"/> 

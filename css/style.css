@@ -87,8 +87,8 @@ header {
     position: fixed;
     z-index: 9;
 	width: 100%;
-	background: #00b0f0;
-	background: rgba(0,176,240,.78);
+	background: hsl(205, 85.3%, 43%);
+	background: hsl(205, 85.3%, 99.5%);
 	padding-top:1rem !important;
 	padding-bottom:1rem !important;
 }
@@ -118,7 +118,8 @@ div#logo {
     display: initial;
     margin: 0;
     letter-spacing: 1px;
-    color: #fff;
+	/* color: #fff; */
+	color: #09395c;	
     font-weight: 800;
     padding: 3px 0;
 }
@@ -156,7 +157,8 @@ nav ul li {
 
 /* Styling the links */
 nav a {
-    color: #fff;
+	color: #0f75bd;
+	color: hsl(205, 85.3%, 43%);
     text-transform: capitalize;
     font-size: 16px;
     letter-spacing: 1px;
@@ -168,7 +170,8 @@ nav ul li ul li:hover { background: #f8f9fa; }
 
 /* Background color change on Hover */
 nav a:hover { 
-	color: #FFF;	
+	color: #FFF;
+	color: hsl(205, 85.3%, 65%);
 }
 nav ul.inner-ul li a:hover { 
 	color: #333;	
