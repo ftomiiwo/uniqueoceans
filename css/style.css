@@ -430,7 +430,7 @@ li > a:only-child:after { content: ''; }
 	top:0;
 	/* background: rgba(0,176,240,0.85); */
 	background: hsl(205,82.2%,19.8%);
-	background: hsl(205, 85.3%, 43%);
+	background: hsl(205, 85.3%, 43%, 0.70); 
 	/* background: rgba(0,0,0,0.75); */
 }
 .banner-info-grid h2 {
@@ -825,6 +825,7 @@ h2.heading,h3.heading {
 }
 .partner_logos img{
 	width:150px;
+    height: 60px;
 	filter: grayscale(80%);
 	border-radius:4px;
 	transition: all 0.43s;

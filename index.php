@@ -10,11 +10,7 @@
 				</div>
 				<!-- <a class="btn mr-2 text-capitalize" href="#popup1">read more </a>
 				<a class="btn text-capitalize" href="#popup2">watch video </a> -->
-			</div>
-			<!-- <div class="col-lg-6 col-md-8 mt-lg-0 mt-sm-5 mt-3 banner-image hero_bg text-lg-center"> -->
-				<!-- <img src="images/1112B.png" alt="" class="img-fluid"/>  -->
-				<!-- <img src="images/hero.jpg" alt="" class="img-fluid"/>  -->
-			<!-- </div> -->
+			</div> 
 		</div>
 	</div>
 </div>
@@ -27,13 +23,13 @@
 			<div class="col-lg-3 about-left">	
 				<h3 class="heading mb-lg-5 mb-4">About us</h3>
 			</div>
-			<div class="col-lg-5 col-md-7 about-text">
+			<div class="col-lg-9 col-md-9 about-text">
 				<p>We are an indigenous management consulting firm that serves a mix of industries and sectors – Manufactur- ing, Construction, Oil & Gas – Up- stream , Downstream ( Production & Services). </p>
 					<p>We help our clients make substantial and lasting im- provements to their performance and realize their most important goals. With relevant industry expe- rience, we are poised to deliver unique value for every project.</p>
 			</div> 
-			<div class="col-lg-4 col-md-5 about-img">
+			<!-- <div class="col-lg-4 col-md-5 about-img">
 				<img src="images/62858B.png" alt="" class="img-fluid"/>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<div class="about_container_bg">
@@ -85,57 +81,7 @@
 		</div>
 	</div>
 </section>
-<!-- //about -->
-
-<!-- why choose us -->
-<!-- <section class="choose py-5" id="services">
-	<div class="container py-md-3">
-		<h3 class="heading mb-5"> Our Services</h3>
-		<div class="feature-grids row">
-			<div class="col-lg-3 col-sm-6">
-				<div class="f1 icon1 p-4">
-					<div class="icon">
-						<span class="fa fa-bandcamp"></span>
-					</div>
-					<h3 class="my-3">Consulting</h3>
-					<p>
-						<ul>
-							<li>Development And Implementation Of Management Systems – Quality, Occupational Health & Safety, Environmental Management Systems</li>
-						</ul>
-					</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 mt-sm-0 mt-4">
-				<div class="f1 icon2 p-4">
-					<div class="icon">
-						<span class="fa fa-codepen"></span>
-					</div>
-					<h3 class="my-3">Audit Services</h3>
-					<p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper.</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 mt-lg-0 mt-4">
-				<div class="f1 icon3 p-4">
-					<div class="icon">
-						<span class="fa fa-btc"></span>
-					</div>
-					<h3 class="my-3">Project Support</h3>
-					<p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper.</p>
-				</div>
-			</div>
-			<div class="col-lg-3 col-sm-6 mt-lg-0 mt-4">
-				<div class="f1 icon4 p-4">
-					<div class="icon">
-						<span class="fa fa-cloud"></span>
-					</div>
-					<h3 class="my-3">Training</h3>
-					<p>Excepteur sint occaecat non proident, sunt in culpa quis. Phasellus lacinia id erat eu ullamcorper.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!-- //why choose us -->
+<!-- //about --> 
 
 <!-- Offered Services -->
 <section class="process py-5" id="our-services">
@@ -531,148 +477,11 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 	</div>
 </section>
 <!-- Offered Services -->
-
-<!-- video -->
-<!-- <section class="video py-5" id="video">
-	<div class="container">
-		<div class="inner-sec-w3ls py-lg-5 py-3">
-			<div class="row">
-				<div class="col-lg-6 video-right px-lg-5 px-2">
-					<h3 class="tittle-w3">Digital Marketing Business Agency</h3>
-					<p class="mt-4">Lorem ipsum dolor sit amet Neque porro quisquam est qui dolorem Lorem int ipsum dolor sit amet when an unknown printer took a galley of type.Vivamus id tempor felis. Cras sagittis mi sit amet malesuada mollis. Mauris porroinit consectetur cursus tortor vel interdum.</p>
-
-				</div>
-				<div class="col-lg-6 video-img mt-lg-0 mt-4">
-					<img src="images/banner.png" alt="" class="img-fluid">
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-<!-- //video -->
-
-<!-- portfolio -->
-<!-- <section class="portfolio py-5" id="portfolio">
-	<div class="container py-3">
-		<h3 class="heading text-capitalize mb-md-5 mb-4">Our Portfolio <span></span></h3>
-		<div class="row news-grids text-center">
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal1"><img src="images/g1.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal2"><img src="images/g2.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal3"><img src="images/g3.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal4"><img src="images/g4.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal5"><img src="images/g5.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal6"><img src="images/g6.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal7"><img src="images/g7.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-			<div class="col-md-3 col-6 gal-img">
-				<a href="#gal8"><img src="images/g8.jpg" alt="portfolio image" class="img-fluid"></a>
-			</div>
-		</div> -->
-		<!-- portfolio popups -->
-			<!-- popup-->
-			<!-- <div id="gal1" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g1.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal2" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g2.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal3" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g3.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup3 -->
-			<!-- popup-->
-			<!-- <div id="gal4" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g4.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal5" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g5.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal6" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g6.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal7" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g7.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- popup-->
-			<!-- <div id="gal8" class="pop-overlay animate">
-				<div class="popup">
-					<img src="images/g8.jpg" alt="Popup Image" class="img-fluid" />
-					<p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
-					<a class="close" href="#portfolio">&times;</a>
-				</div>
-			</div> -->
-			<!-- //popup -->
-			<!-- //portfolio popups -->
-	<!-- </div>
-</section> -->
-<!-- //Projects -->
-<!-- //Projects 
-	Beamco Nigeria Limited
-	Hommaston Limited
-	JohnKrammer Engineering
-	Rahamaniya Oil & Gas Ltd.
-	Technology Partners International
-	Hybrid-HSE Group
-	StanbicIBTC
-	Mikano International Limited
-	-->
+ 
 <!--/Partners-->
 <section class="partners py-5" id="partners">
 	<div class="container py-md-3">
-		<p class="core_value_title core_value_title_partners">Our Clientele <small>/kliːɒnˈtɛl/</small></p>
-		<!-- <h3 class="heading text-capitalize mb-md-5 mb-4">Our Clientele <small>/kliːɒnˈtɛl/</small></h3> -->
+		<p class="core_value_title core_value_title_partners">Our Clientele </p> 
 		<div class="partners_container">
 			<div class="partner_logos">
 				<img src="images/beamco.png" class="img-fluid" alt="Partner's logo">
@@ -682,15 +491,15 @@ viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="pres
 			</div>
 			<div class="partner_logos">
 				<img src="images/hommost.png" class="img-fluid" alt="Partner's logo">
-			</div>
-			<div class="partner_logos">
-				<img src="images/stambic.png" class="img-fluid" alt="Partner's logo">
-			</div>
-			<div class="partner_logos">
-				<img src="images/mikano.png" class="img-fluid" alt="Partner's logo">
-			</div>
+			</div> 
 			<div class="partner_logos">
 				<img src="images/johnkramer.png" class="img-fluid" alt="Partner's logo">
+			 </div>
+			 <div class="partner_logos">
+				<img src="images/partners/tpi-logo.jpg" class="img-fluid" alt="Partner's logo">
+			 </div>
+			 <div class="partner_logos">
+				<img src="images/partners/rahamaniyya.png" class="img-fluid" alt="Partner's logo">
 			 </div>
 		 </div>
 		 

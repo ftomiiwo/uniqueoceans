@@ -65,69 +65,7 @@
 		<span class="fa fa-angle-up  mb-3" aria-hidden="true"></span>
 	</a>
 </div>
-<!-- move top -->
-	
-<!-- popup for login -->
-<!-- <div id="popup3" class="popup-effect">
-	<div class="popup">
-		<div class="login px-sm-4 mx-auto mw-100">
-			<h5 class="text-center mb-4">Login to Digital</h5>
-			<form action="#" method="post">
-				<div class="form-group">
-					<label class="mb-2">Email address</label>
-					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="" required="">
-					<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-				</div>
-				<div class="form-group">
-					<label class="mb-2">Password</label>
-					<input type="password" class="form-control" id="exampleInputPassword1" placeholder="" required="">
-				</div>
-				<button type="submit" class="btn btn-primary submit mt-2">Login</button>
-				<p class="text-center mt-2">
-					<a href="#popup4"> Don't have an account?</a>
-				</p>
-			</form>
-		</div>
-
-		<a class="close" href="#">&times;</a>
-	</div>
-</div> -->
-<!-- //popup for login -->
-
-<!-- popup for register -->
-<!-- <div id="popup4" class="popup-effect">
-	<div class="popup">
-		<div class="login px-sm-4 mx-auto mw-100">
-			<h5 class="text-center mb-4">Register Now</h5>
-			<form action="form.php" method="post">
-				<div class="form-group">
-					<label>Full Name</label>
-					<input type="text" class="form-control" id="validationDefault01" placeholder="Your Fullname.." required="required" name="visitor_name">
-				</div>
-				<div class="form-group">
-					<label>Email Address</label>
-					<input type="email" class="form-control" id="validationDefault02" placeholder="Your Email" required="required" name="visitor_email">
-				</div> 
-				<div class="form-group">
-					<label>Give a title</label>
-					<input type="text" class="form-control" id="password2" placeholder="Proposal" required="required" name="email_title">
-				</div>
-				<div class="form-group">
-					<label>Your Message</label>
-					<textarea name="" placeholder="Tell us how we can partner with you.."></textarea>
-					<input type="text" class="form-control" id="password2" placeholder="Proposal" required="required" name="visitor_message">
-				</div>
-
-				<button type="submit" class="btn btn-primary submit">Register</button>
-				<p class="text-center mt-3">
-					<a href="#">By clicking Register, I agree to your terms</a>
-				</p>
-			</form>
-		</div>
-		<a class="close" href="#">&times;</a>
-	</div>
-</div> -->
-<!-- //popup for register -->
+<!-- move top --> 
 
 </body>
 </html>
