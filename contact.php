@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-   
 <!-- banner -->
 <div class="banner inner-banner" id="home">
 	<div class="container">
@@ -12,16 +11,20 @@
 <section class="contact py-5 my-lg-5">
 	<div class="container">
 		<h2 class="heading mb-sm-5 mb-4">Contact Us</h2>
-		<?php if(isset($status)) { ?>
-		<div class="mb-3 text-capitalize">Thank you for contacting us, $visitor_name. You will get a reply within 24 hours.</div>
+		<?php if(isset($_GET['status']) && $_GET['status'] == 'success') { ?>
+		<div class="mb-3 text-capitalize contact-success" style="text-align: center; color: #0f75bd; font-size: 144%;">Thank you for contacting us <?php echo $visitor_name; ?>. You will get a reply within 24 hours.</div>
+		<?php  } ?>
+		<?php if(isset($_GET['error']) && $_GET['status'] == 'error') { ?>
+		<div class="mb-3 text-capitalize contact-failure" style="text-align: center; color: #dc2020; font-size: 144%;">We are sorry the email did not go through  at this time, please try again.</div>
 		<?php } ?>
-		<?php if(isset($error)) { ?>
-		<div class="mb-3 text-capitalize">We are sorry but the email did not go through.</div>
+    <?php if(isset($_GET['error']) && $_GET['status'] == 'incomplete') { ?>
+		<div class="mb-3 text-capitalize contact-failure" style="text-align: center; color: #dc2020; font-size: 144%;">Contact Form not filled properly, please check.</div>
 		<?php } ?>
+
 		<div class="row contact_information">
 			<div class="col-md-6 contact_left">
 				<div class="contact_border p-4">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3963.6878752617404!2d3.365492!3d6.5610264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8d8f3b9e83bb%3A0x129c8794180b45ba!2s5+Akinmade+St%2C+Anthony%2C+Lagos!5e0!3m2!1sen!2sng!4v1555690314603!5m2!1sen!2sng"></iframe> 
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3963.6878752617404!2d3.365492!3d6.5610264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8d8f3b9e83bb%3A0x129c8794180b45ba!2s5+Akinmade+St%2C+Anthony%2C+Lagos!5e0!3m2!1sen!2sng!4v1555690314603!5m2!1sen!2sng"></iframe>
 				</div>
 			</div>
 			<div class="col-md-6 mt-md-0 mt-4">
@@ -31,8 +34,8 @@
 							<h3 class="mb-3">Contact form</h3>
 							<input type="text" class="form-control" id="validationDefault01" placeholder="Your Fullname.." required="required" name="visitor_name">
 							<input type="email" class="form-control" id="validationDefault02" placeholder="Your Email" required="required" name="visitor_email">
-							<input type="text" class="form-control" id="password2" placeholder="Topic/Title" required="required" name="email_title"> 
-							<textarea name="visitor_message" placeholder="Tell us how we can partner with you.."></textarea>
+							<input type="text" class="form-control" id="password2" placeholder="Topic/Title" required="required" name="email_title">
+							<textarea name="visitor_message" placeholder="Tell us how we can partner with you.." required="required"></textarea>
 						</div>
 						<div class="w3_agileits_contact_right">
 							<button type="submit" type="submit">Submit</button>
@@ -61,11 +64,11 @@
 
 <!-- move top -->
 <div class="move-top text-right">
-	<a href="#home" class="move-top"> 
+	<a href="#home" class="move-top">
 		<span class="fa fa-angle-up  mb-3" aria-hidden="true"></span>
 	</a>
 </div>
-<!-- move top --> 
+<!-- move top -->
 
 </body>
 </html>
